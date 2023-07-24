@@ -72,13 +72,5 @@ This Go program scrapes movies and series from https://vidcloud9.com and gives y
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-# My Telegram Channel
-[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
-
-# Donations (Optional)
-If you like my projects then consider making a small donation by clicking below button ^_^
-<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
-
 ### ⚠ Disclamier
 The movies and series showed here are not hosted by the Author, This program scrapes from https://vidcloud9.com which is available in the web.
